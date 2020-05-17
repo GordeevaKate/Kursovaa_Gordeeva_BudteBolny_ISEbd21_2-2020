@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9WZ+vKEucyI3o84tvxhj8XHqenOQ9LjXkbC3aXHe9Kl+SP+2qGv8UeQ3pOXYBLR5B9KqhVdSZc1FBbrbi/b9iw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Катерина\\Pictures\\Kursach_BudteBolnu_2020-master\\BudteBolny\\HospitalBusinessLogic\\HospitalBusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
